@@ -15,7 +15,8 @@ pip2 install mechanize
 
 git clone https://github.com/devilpantherofficial/Theme-Me
 
-cd Theme-me 
+cd Theme-me
+ 
 python2 Theme-Me.py 
 
 User Name :
