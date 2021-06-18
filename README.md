@@ -1,23 +1,23 @@
 # Theme-Me
  COMMANDS 
 
-pkg update 
+* `pkg update`
 
-pkg upgrade 
+* `pkg upgrade`
 
-pkg install python2 
+* `pkg install python2`
 
-pkg install git 
+* `pkg install git`
 
-pip2 install requests 
+* `pip2 install requests` 
 
-pip2 install mechanize
+* `pip2 install mechanize`
 
-git clone https://github.com/devilpantherofficial/Theme-Me
+* `git clone https://github.com/devilpantherofficial/Theme-Me`
 
-cd Theme-me
+* `cd Theme-Me`
  
-python2 Theme-Me.py 
+* `python2 umbrella.py`
 
-User Name :
-https://www.youtube.com/c/MrZ17
+* User Name :
+`https://www.youtube.com/c/MrZ17`
