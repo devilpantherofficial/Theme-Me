@@ -1,3 +1,6 @@
+### Theme-Me
+
+
 ### Auther :
 <p align="center">
 <a href="https://github.com/devilpantherofficial"><img title="Github" src="https://img.shields.io/badge/github-devilpantherofficial-blue"></a> </p>
@@ -8,8 +11,8 @@
 
 
 
-# Theme-Me
- COMMANDS 
+
+## INSTALLATION  :
 
 * `pkg update`
 
