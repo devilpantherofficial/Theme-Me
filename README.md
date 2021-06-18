@@ -1,3 +1,13 @@
+### Auther :
+<p align="center">
+<a href="https://github.com/devilpantherofficial"><img title="Github" src="https://img.shields.io/badge/mao2116-grey?style=for-the-badge&logo=github"></a> </p>
+
+<p align="center">
+<a href="https://www.facebook.com/devilpanther.official/"><img title="FaceBook" src="https://img.shields.io/badge/FB-MAO VIRUS-lightgrey?style=for-the-badge&logo=facebook"></a>
+</p>
+
+
+
 # Theme-Me
  COMMANDS 
 
